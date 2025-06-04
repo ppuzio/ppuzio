@@ -22,19 +22,19 @@ I love exploring new technologies and sharing knowledge through writing and ment
 
 Don't miss my latest thoughts and tutorials!
 
-🚀 **[The Self-Improving Assistant: How Kaizen Principles Transform AI Interactions](https://ppuzio.medium.com)**  
+🚀 **[The Self-Improving Assistant: How Kaizen Principles Transform AI Interactions](https://ppuzio.medium.com/the-self-improving-assistant-how-kaizen-principles-transform-ai-interactions-f6275af94f31)**  
 _Published: Apr 8, 2024_  
 Building AI Systems That Learn Your Preferences Through Systematic Feedback
 
-📘 **[PostgreSQL's JSON functionalities as an alternative to NoSQL](https://ppuzio.medium.com)**  
+📘 **[PostgreSQL's JSON functionalities as an alternative to NoSQL](https://ppuzio.medium.com/postgresqls-json-functionalities-as-an-alternative-to-nosql-a90c6e9cf6df)**  
 _Published: Dec 13, 2024_  
 Optimizing GeoJSON processing with built-in JSON operations
 
-🧵 **[Multithreading in the browser with Emscripten and Boost ASIO](https://ppuzio.medium.com)**  
+🧵 **[Multithreading in the browser with Emscripten and Boost ASIO](https://ppuzio.medium.com/multithreading-in-the-browser-with-emscripten-and-boost-asio-1e4d8484e155)**  
 _Published: Sep 26, 2023_  
 How to implement a multithreaded solution in the browser, using Emscripten, Boost ASIO, React, WebWorkers and more
 
-⚡ **[C++ in the browser with WebAssembly via Emscripten, Vite and React](https://ppuzio.medium.com)**  
+⚡ **[C++ in the browser with WebAssembly via Emscripten, Vite and React](https://ppuzio.medium.com/c-in-the-browser-with-webassembly-via-emscripten-vite-and-react-bd82e0598a5e)**  
 _Published: Dec 2, 2022_  
 How to use Emscripten to launch C++ scripts with Vite, TypeScript and React in a real-world scenario
 
