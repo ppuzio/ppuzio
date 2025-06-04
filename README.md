@@ -2,7 +2,7 @@
 
 **Senior Software Engineer (React/Node/AWS/WASM) @ CodeComply.ai**
 
-I'm passionate about React, traveling, foreign languages, and photography. I love exploring new technologies and sharing knowledge through writing.
+I'm passionate about React, traveling, foreign languages, and photography. I love exploring new technologies and sharing knowledge through writing and mentoring.
 
 ---
 
@@ -12,7 +12,9 @@ I'm passionate about React, traveling, foreign languages, and photography. I lov
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ppuzio.medium.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ppuzio)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ppuzio)
+[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/ppuzio)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ppuzio)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/ppuzio)
 
 ---
 
