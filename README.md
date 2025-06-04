@@ -2,7 +2,7 @@
 
 **Senior Software Engineer (React/Node/AWS/WASM) @ CodeComply.ai**
 
-I'm passionate about React, traveling, foreign languages, and photography. I love exploring new technologies and sharing knowledge through writing and mentoring.
+I love exploring new technologies and sharing knowledge through writing and mentoring.
 
 ---
 
